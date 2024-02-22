@@ -4,7 +4,8 @@
 
 #### I've been learning to code for 9 years. I started with c/c++ and later i learned Python and Ruby. Now i am learning Artificial Intelligence, Machine Learning and Data Science. I also have some knowledge about consensus algorithm that used in distributed systems and blockchain.
 
-* 🌍  I'm based in Tehran* ✉️  You can contact me at [agheysari@aut.ac.ir](mailto:agheysari@aut.ac.ir)
+* 🌍  I'm based in Tehran
+* ✉️  You can contact me at [agheysari@aut.ac.ir](mailto:agheysari@aut.ac.ir)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on ML & DL Projects
 * ⚡  I'm a black hat hacker.. but dont tell anymore ;)
