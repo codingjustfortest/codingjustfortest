@@ -29,4 +29,4 @@ src="https://img.shields.io/github/followers/codingjustfortest?logo=github&style
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=codingjustfortest&show_icons=true&theme=merko&line_height=200&card_width=400" /><img src="https://github-readme-stats.vercel.app/api?username=codingjustfortest&show_icons=true&theme=merko&card_width=400" alt="Arman's GitHub stats"/>
 
-<p align="center"> <a href="https://github.com/codingjustfortest"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingjustfortest&langs_count=10&hide_progress=true&show_icons=true&theme=radical" alt="Top Languages" /></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingjustfortest&langs_count=10&hide_progress=true&show_icons=true&theme=radical" alt="Top Languages" /></a>
