@@ -1,6 +1,6 @@
 # Hi 👋 My name is Arman
 
-## Data Scientist and Blockchain Developer
+## Junior Data Scientist and Blockchain Developer
 
 #### I've been learning to code for 9 years. I started with c/c++ and later i learned Python and Ruby. Now i am learning Artificial Intelligence, Machine Learning and Data Science. I also have some knowledge about consensus algorithm that used in distributed systems and blockchain.
 
